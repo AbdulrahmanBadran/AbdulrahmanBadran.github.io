@@ -1,0 +1,12 @@
+﻿  seventhCourse.cpp
+C:\Users\OsamaNaser\Desktop\seventhCourse\seventhCourse\myLib.h(500,12): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\OsamaNaser\Desktop\seventhCourse\seventhCourse\myLib.h(504,10): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\OsamaNaser\Desktop\seventhCourse\seventhCourse\myLib.h(509,11): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\OsamaNaser\Desktop\seventhCourse\seventhCourse\myLib.h(511,10): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\OsamaNaser\Desktop\seventhCourse\seventhCourse\myLib.h(519,12): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\OsamaNaser\Desktop\seventhCourse\seventhCourse\myLib.h(522,10): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\OsamaNaser\Desktop\seventhCourse\seventhCourse\myLib.h(529,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\OsamaNaser\Desktop\seventhCourse\seventhCourse\seventhCourse.cpp(81,25): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\OsamaNaser\Desktop\seventhCourse\seventhCourse\seventhCourse.cpp(336,26): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\OsamaNaser\Desktop\seventhCourse\seventhCourse\myLib.h(224): warning C4715: 'myLib::RandomSth': not all control paths return a value
+  seventhCourse.vcxproj -> C:\Users\OsamaNaser\Desktop\seventhCourse\x64\Debug\seventhCourse.exe
